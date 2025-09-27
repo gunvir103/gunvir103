@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hey there! I'm Gunvir
+# Hey there! I'm Gunvir
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F7C41F&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Aspiring+Robotics+%2F+CE+Engineer;Building+the+Future+with+Code;23+and+Passionate+About+Tech!" alt="Typing SVG" />
