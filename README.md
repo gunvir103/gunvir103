@@ -16,9 +16,9 @@
 
 - 🎓 **Computer Science AA** | Pursuing **BS in Computer Engineering / Robotics**
 - 🚀 Currently working on **ExoDrive** and innovative tech projects
-- 💻 Passionate about merging hardware and software
+- 💻 Passionate about FOSS hardware and software, making my way back to robotics
 - 🌟 23 years old and ready to revolutionize tech
-- ⚡ Fun fact: Big fan of Demon Slayer (Thunder Breathing First Form! ⚡)
+- ⚡ I enjoy programming but am really honing in on my DSA and coding skills until the end of the year
 
 <br clear="right"/>
 
@@ -50,9 +50,9 @@
 
 | 🎯 Project | 📝 Description | 🔧 Tech Stack |
 |------------|----------------|---------------|
-| **ExoDrive** 🦾 | Revolutionary exoskeleton control system | Embedded Systems, C++, ROS |
-| **Patient Management System** 💊 | Comprehensive healthcare management solution | Java, OOP, Database |
-| **Number Guessing Game** 🎮 | Interactive CLI game with AI opponent | Java, Algorithms |
+| **ExoDrive** | Exotic Car Rental Platoform As Service | Typescript, Javascript, PostgreSQL|
+| **AWS Captcha Solver** | Python Automation and AWS WAF Captcha Solver | Python, Selenium, Playwright, Computer Use Agent |
+| **Stock Options Webscrapper** 🎮 | Python Webscrapping and Browser Automation | Python, Java, CI/CD, Cloudflare Worker |
 | **Dotfiles** ⚙️ | Personal development environment configuration | PowerShell, Shell Scripting |
 
 </div>
@@ -78,24 +78,4 @@
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gunvir103&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=F7C41F&line=F7C41F&point=FFFFFF" width="100%" />
-</div>
-
-## 🤝 Let's Connect!
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gunvir)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gunvir@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://gunvir.dev)
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=gunvir103&style=for-the-badge&color=F7C41F" />
-
-  ### ⚡ "Thunder Breathing, First Form: Thunderclap and Flash!" ⚡
-
-  <img src="https://media.giphy.com/media/3o7btQ0NH6Kl8CxCfK/giphy.gif" width="300" />
 </div>
